@@ -1,0 +1,1329 @@
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. Original error: Cannot read properties of undefined (reading 'workers')
+    at r$ (C:\Users\Quica\qepwebes15\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:16:1766)
+    at C:\Users\Quica\qepwebes15\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:16:303
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async rT (C:\Users\Quica\qepwebes15\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:15:8148)
+    at async ne (C:\Users\Quica\qepwebes15\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:18:1144)
+    at async doRender (C:\Users\Quica\qepwebes15\node_modules\next\dist\server\base-server.js:1406:30)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\Quica\qepwebes15\node_modules\next\dist\server\base-server.js:1567:28)
+    at async NextNodeServer.renderToResponseWithComponentsImpl (C:\Users\Quica\qepwebes15\node_modules\next\dist\server\base-server.js:1475:28)
+    at async NextNodeServer.renderPageComponent (C:\Users\Quica\qepwebes15\node_modules\next\dist\server\base-server.js:1901:24)
+    at async NextNodeServer.renderToResponseImpl (C:\Users\Quica\qepwebes15\node_modules\next\dist\server\base-server.js:1939:32)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[31m[auth][error][0m UntrustedHost: Host must be trusted. URL was: http://localhost:3000/api/auth/session. Read more at https://errors.authjs.dev#untrustedhost
+    at C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:47158
+    at aa (C:\Users\Quica\qepwebes15\.next\server\middleware.js:389:49866)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
