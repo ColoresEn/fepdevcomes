@@ -59,11 +59,11 @@ async function loadBreeds(page: number) {
 }
 
 interface BreedsPageProps {
-  searchParams: Promise<{ page?: string | string[] }>;
+  searchParams?: { page?: string | string[] };
 }
 
 async function BreedsPage({ searchParams }: BreedsPageProps) {
-  const { page: raw } = await await searchParams;
+  const raw = searchParams?.page;
   const rawPage = Array.isArray(raw) ? raw[0] : raw;
   const parsed = Number.parseInt(rawPage ?? "1", 10);
   let page = Number.isNaN(parsed) || parsed < 1 ? 0 : parsed - 1;
@@ -80,22 +80,13 @@ async function BreedsPage({ searchParams }: BreedsPageProps) {
   const currentPage = page + 1;
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-4 py-6 sm:px-6">
+    <div className="mx-auto max-w-6xl px-4 py-5">
       <div className="mb-5 text-center">
         <h1>Todas las razas de perros </h1>
       </div>
 
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-        {breeds.map(
-          (breed, index) =>
-            breed && (
-              <BreedCard
-                breed={breed}
-                key={breed.id}
-                priority={index === 0}
-              />
-            )
-        )}
+      <div className="grid md:grid-cols-3   sm:grid-cols-2  xs:grid-cols-1 lg:grid-cols-4 gap-3 w-full  ">
+        {breeds.map((breed) => breed && <BreedCard breed={breed} key={breed.id} />)}
       </div>
 
       {totalPages > 1 && (

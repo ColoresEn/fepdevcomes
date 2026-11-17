@@ -39,9 +39,9 @@ async function loadBreedsByCategory(categorySlug: string) {
 export default async function CategoryBreedsPage({
   params,
 }: {
-  params: Promise<{ category: string }>;
+  params: { category: string };
 }) {
-  const { category: categorySlug } = await params;
+  const categorySlug = params.category;
   const categoryData = await loadBreedsByCategory(categorySlug);
 
   if (!categoryData) {
@@ -49,8 +49,8 @@ export default async function CategoryBreedsPage({
   }
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-4 py-6 sm:px-6">
-      <div className="mb-8 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:justify-between">
+    <div className="mx-auto max-w-6xl px-4 py-5">
+      <div className="mb-8 flex items-center justify-between gap-4">
         <div>
         
           <h1 className="text-3xl font-bold text-slate-800">
@@ -66,7 +66,7 @@ export default async function CategoryBreedsPage({
         </Link>
       </div>
 
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+ <div className="grid md:grid-cols-3   sm:grid-cols-2  xs:grid-cols-1 lg:grid-cols-4 gap-3 w-full  ">
         {categoryData.breeds.map((breed) => (
           <BreedCard key={breed.id} breed={breed} />
         ))}
