@@ -59,11 +59,11 @@ async function loadBreeds(page: number) {
 }
 
 interface BreedsPageProps {
-  searchParams?: { page?: string | string[] };
+  searchParams?: Promise<{ page?: string | string[] }>;
 }
 
 async function BreedsPage({ searchParams }: BreedsPageProps) {
-  const raw = await searchParams?.page;
+  const raw = (await searchParams)?.page;
   const rawPage = Array.isArray(raw) ? raw[0] : raw;
   const parsed = Number.parseInt(rawPage ?? "1", 10);
   let page = Number.isNaN(parsed) || parsed < 1 ? 0 : parsed - 1;
