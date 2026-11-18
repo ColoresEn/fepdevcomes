@@ -32,7 +32,7 @@ Para el ejercicio de los derechos deberá identificarse mediante la presentació
 
 Mientras no nos comuniquen lo contrario, entenderemos que los datos no han sido modificados y que usted se compromete a notificarnos cualquier variación. </p>
 <p>
-Para cualquier reclamación puede dirigirse a parkingesoma@gmail.com Igualmente podrá dirigirse a la Agencia Española de Protección de Datos www.agdp.es.
+Para cualquier reclamación puede dirigirse a qepdevsafor@gmail.com Igualmente podrá dirigirse a la Agencia Española de Protección de Datos www.agdp.es.
 
 
       </p>
