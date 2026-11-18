@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { api } from "@/lib/axios";
 import { ImageUpload } from "../../types/Image.interface";
 import { useRef } from "react";
@@ -7,12 +7,7 @@ import ResponseDisplay from "@/components/ResponseDisplay";
 import { Button } from "@/components/ui/button";
 const uploadBobbyPhoto = async (formData: FormData) => {
   try {
-    const { data } = await api.post("/images/upload", formData, {
-      headers: {
-        "Content-Type": "multipart/form-data"
-        //'Content-Type':  'video/mp4',
-      }
-    });
+    const { data } = await api.post("/images/upload", formData);
     console.log("File", data);
     return data;
   } catch (error) {

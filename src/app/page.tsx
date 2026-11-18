@@ -148,22 +148,22 @@ function HomePage() {
             </dl>
           </div>
 
-          <div className="relative mx-auto w-full max-w-sm  ">
-            <div className="  absolute -inset-3 rotate-3 rounded-[2rem] border border-white/20 bg-white/10 backdrop-blur-sm " />
-            <div className="relative  rounded-[1.75rem] bg-lime-300 pl-8 text-stone-900 shadow-2xl">
-              <p className="mb-4 flex items-center gap-2 text-sm font-semibold uppercase tracking-wide text-lime-800">
-                <PawPrint className="h-4 w-4" />
-                Foto destacada de hoy
-              </p>
-              {randomImg ? (
-                <RandomCard image={randomImg} />
-              ) : (
-                <div className="flex h-64 w-full animate-pulse flex-col items-center justify-center gap-3 rounded-xl bg-stone-100 text-stone-400">
-                  <Dog className="h-10 w-10" />
-                  Buscando un peludo…
-                </div>
-              )}
-            </div>
+                   <div className="relative mx-auto w-full  ">
+                     <div className="  absolute -inset-3 rotate-3 rounded-[2rem] border border-white/20 bg-white/10 backdrop-blur-sm items-center " />
+                     <div className="relative  rounded-[1.75rem] bg-lime-300  text-stone-900 shadow-2xl">
+                       <p className="px-4 py-4 flex items-center gap-2 text-sm font-semibold uppercase tracking-wide ">
+                         <PawPrint className="h-4 w-4" />
+                         Foto destacada de hoy
+                       </p>
+                       {randomImg ? (
+                         <RandomCard image={randomImg} />
+                       ) : (
+                         <div className="flex h-80 w-full animate-pulse flex-col items-center justify-center gap-3 rounded-xl bg-stone-100 text-stone-400">
+                           <Dog className="h-10 w-10" />
+                           Buscando un peludo…
+                         </div>
+                       )}
+                     </div>
           </div>
         </div>
       </section>

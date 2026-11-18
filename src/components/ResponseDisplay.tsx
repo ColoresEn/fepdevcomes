@@ -9,7 +9,7 @@ function ResponseDisplay(props: Props) {
     props.data;
   return (
     <div
-      className="w-fit border flex-wrap  sm:max-w-xs  xs:max-w-xs  items-center   bg-white shadow-md shadow-black  border-lime-800 py-4 px-5
+      className="w-fit border flex-wrap  sm:max-w-xs  xs:max-w-xs  items-center   bg-lime-400 shadow-md shadow-black  border-lime-800 py-4 px-5
          mx-auto  "
     >
       <p>Your image {original_filename} has been upload</p>
