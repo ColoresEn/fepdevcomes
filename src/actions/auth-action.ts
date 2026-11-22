@@ -1,13 +1,19 @@
 "use server";
 
-import { signIn } from "../../auth";
+import { signIn,  signOut } from "../../auth";
 import { db } from "@/lib/db";
 import { revalidatePath } from "next/cache";
+import { redirect } from "next/navigation";
 import { loginSchema, registerSchema } from "@/lib/zod";
 import bcrypt from "bcryptjs";
 import { AuthError } from "next-auth";
 import { z } from "zod";
-
+export async function logoutAction() {
+  const redirectTo = process.env.NEXTAUTH_URL || "/";
+  await signOut({ redirect: false, redirectTo });
+  revalidatePath("/");
+  redirect(redirectTo);
+}
 export const loginAction = async (values: z.infer<typeof loginSchema>) => {
   try {
     await signIn("credentials", {
@@ -25,7 +31,6 @@ export const loginAction = async (values: z.infer<typeof loginSchema>) => {
     }
     return { error: "error 500" };
   }
-
   revalidatePath("/");
 };
 

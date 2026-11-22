@@ -12,14 +12,6 @@ const LogoutButton = () => {
     });
   };
 
-  return (
-    <Button
-      className="w-full justify-start gap-2"
-      onClick={handleClick}
-    >
-      <LogOut className="h-4 w-4 shrink-0" />
-      Sign Out
-    </Button>
-  );
+  return <div onClick={handleClick}>SignOut</div>;
 };
 export default LogoutButton;

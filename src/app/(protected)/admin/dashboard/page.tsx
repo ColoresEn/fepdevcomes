@@ -18,7 +18,7 @@ export const metadata = {
 
 export default function DashboardPage() {
   return (
-    <div className="space-y-8">
+    <div className="space-y-8 ">
       <header className="space-y-2">
         <h1 className="m-0 text-3xl font-semibold tracking-tight sm:text-4xl">
           Panel de control
@@ -63,7 +63,7 @@ async function DashboardOverview() {
   ];
 
   return (
-    <div className="space-y-8">
+    <div className=" space-y-8">
       {userName && (
         <p className="m-0 text-sm text-muted-foreground">
           Hola, <span className="font-medium text-foreground">{userName}</span>
@@ -99,7 +99,7 @@ async function DashboardOverview() {
             <li key={href}>
               <Link
                 href={href}
-                className="flex min-h-14 items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-accent/70 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-ring"
+                className="flex min-h-14 items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-primary/30 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
               >
                 <span className="flex items-center gap-3">
                   <Icon aria-hidden="true" className="size-4 text-primary" />
@@ -112,7 +112,7 @@ async function DashboardOverview() {
           <li>
             <Link
               href="/admin/settings"
-              className="flex min-h-14 items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-accent/70 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-ring"
+              className="flex min-h-14 items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-primary/40 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
             >
               <span className="font-medium">Configurar mi perfil</span>
               <ArrowUpRight aria-hidden="true" className="size-4 text-muted-foreground" />

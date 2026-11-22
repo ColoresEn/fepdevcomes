@@ -34,14 +34,14 @@ export default function AdminMessagesTable({
           <span className="sr-only">Buscar mensajes</span>
           <Search
             aria-hidden="true"
-            className="pointer-events-none absolute left-3 top-1/2 size-4 -translate-y-1/2 text-lime-900"
+            className="pointer-events-none absolute left-3 top-1/2 size-4 -translate-y-1/2 text-muted-foreground"
           />
           <input
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
             placeholder="Buscar por nombre, correo, tema o mensaje"
-            className="min-h-11 w-full rounded-xl border border-input bg-background px-3 py-2 pl-10 text-sm text-lime-900 placeholder:text-lime-900"
+            className="min-h-11 w-full rounded-xl border border-input bg-background px-3 py-2 pl-10 text-sm text-foreground placeholder:text-muted-foreground"
           />
         </label>
         <p className="m-0 text-sm text-muted-foreground" aria-live="polite">
@@ -71,7 +71,7 @@ export default function AdminMessagesTable({
             aria-label="Tabla de mensajes"
             tabIndex={0}
           >
-            <table className="w-full min-w-[720px] border-collapse text-left text-sm">
+            <table className="w-full min-w-180 border-collapse text-left text-sm">
               <caption className="sr-only">Mensajes del formulario de contacto</caption>
               <thead className="border-b border-border bg-secondary/60 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
                 <tr>

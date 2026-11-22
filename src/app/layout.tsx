@@ -1,18 +1,25 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
+import Link from "next/link";
 import Providers from "./Providers";
 import Navbar from "@/components/navbar/Navbar";
 import Footer from "@/components/Footer";
 import "./globals.css";
-import { Quicksand } from "next/font/google";
+import { DM_Sans, Space_Grotesk } from "next/font/google";
 import { TProvider } from "@/providers/toast-provider";
-import { Suspense } from "react";
 
-const quicksand = Quicksand({ subsets: ["latin"] });
+const display = Space_Grotesk({
+  subsets: ["latin"],
+  variable: "--font-display",
+});
+const body = DM_Sans({
+  subsets: ["latin"],
+  variable: "--font-body",
+});
 
 export const metadata: Metadata = {
-  title: "FEP Dogs App",
-  description:
-    "Explora cientos de fotos de perros por razas y categorías, descubre imágenes aleatorias y guarda tus favoritas."
+  title: "Murals & Criptos",
+  description: "Street art, places and the crypto market in one independent journal.",
 };
 
 export default function RootLayout({
@@ -21,23 +28,33 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${quicksand.className} flex min-h-screen flex-col text-foreground antialiased`}>
+    <html lang="en" data-scroll-behavior="smooth">
+      <body className={`${display.variable} ${body.variable}`}>
         <Providers>
           <Suspense
             fallback={
-              <nav className="bg-lime-800" aria-hidden="true">
-                <div className="container flex min-h-20 items-center justify-between ">
-                  <span className="px-3 py-6 text-lime-100">FEP Dogs App</span>
-                  <div className="mr-2 h-10 w-10 rounded-full bg-lime-700" />
+              <header className="site-header">
+                <div className="site-nav">
+                  <Link className="brand-lockup" href="/">
+                    <span className="brand-name">Murals &amp; Criptos</span>
+                  </Link>
                 </div>
-              </nav>
+              </header>
             }
           >
-            <Navbar />
+             <Navbar />
           </Suspense>
+         
           <TProvider />
-          <div className="flex flex-1 flex-col">{children}</div>
+          <Suspense
+            fallback={
+              <main className="page-frame section-page">
+                <p className="empty-state" role="status">Loading the latest from the street...</p>
+              </main>
+            }
+          >
+            {children}
+          </Suspense>
           <Footer />
         </Providers>
       </body>

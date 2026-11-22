@@ -26,7 +26,7 @@ console.log('value', value)
 
   return (
     <CldUploadWidget
-      uploadPreset="ajukal8h"
+      uploadPreset='ajukal8h'
       options={{ maxFiles: 1 }}
      
       onSuccess={handleUpload} // Uso de onSuccess también por compatibilidad con la biblioteca actual
@@ -42,7 +42,7 @@ console.log('value', value)
 
             {value && (
               <div className="absolute inset-0 w-full h-full">
-                <Image alt="upload" fill style={{ objectFit: 'cover' }} src={value} />
+                <Image alt="upload" sizes="100%" fill style={{ objectFit: 'cover' }} src={value} />
               </div>
             )}
           </div>
