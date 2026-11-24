@@ -60,7 +60,7 @@ export default async function CategoryBreedsPage({
 
         <Link
           href="/categories"
-          className="rounded-full border border-slate-300 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-400 hover:bg-slate-50"
+          className="rounded-full border border-lime-500 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-lime-400 hover:bg-lime-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2"
         >
           Back to categories
         </Link>

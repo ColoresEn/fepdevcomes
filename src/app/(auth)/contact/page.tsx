@@ -115,7 +115,7 @@ const AddContactForm = () => {
             )}
           />
            <div className="flex justify-end text-left p-4 ">
-          <Button type="submit" className="space-x-2" disabled={loading}>
+          <Button type="submit" className="rounded-full border border-lime-500 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-lime-400 hover:bg-lime-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2" disabled={loading}>
             {loading ? (
               <>
                 <Spinner /> Loading...

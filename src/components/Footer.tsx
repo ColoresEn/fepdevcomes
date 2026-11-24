@@ -1,25 +1,22 @@
-// components/Footer.tsx
-import { connection } from "next/server";
-import { Suspense } from "react";
+import Link from "next/link";
+import CopyrightYear from "@/components/CopyrightYear";
 import { siteConfig } from "@/config/site";
 import { FiGithub, FiLinkedin, FiTwitter ,   FiMail} from "react-icons/fi";
+import { Suspense } from "react";
+export default function Footer() {
 
-async function CopyrightYear() {
-  await connection();
-  return new Date().getFullYear();
-}
-
-const Footer = () => {
   return (
-    <footer>
-      <div className="p-4 text-center bg-lime-300 ">
-        <div className="m-4 flex justify-center space-x-6">
+    <footer className="bg-background/60 text-center backdrop-blur-sm">
+      <div className="mx-auto w-full max-w-6xl flex-col gap-3 px-4 py-8 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6">
+
+
+            <div className="m-4 flex justify-center space-x-6">
           {siteConfig.socialLinks.github && (
             <a
               href={siteConfig.socialLinks.github}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-lime-900 hover:text-yellow-900"
+              className="  hover:text-yellow-900"
             >
               <span className="sr-only">GitHub</span>
               <FiGithub className="h-6 w-6" />
@@ -30,7 +27,7 @@ const Footer = () => {
               href={siteConfig.socialLinks.linkedin}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-lime-900 hover:text-yellow-900"
+              className="  hover:text-yellow-900"
             >
               <span className="sr-only">LinkedIn</span>
               <FiLinkedin className="h-6 w-6" />
@@ -41,7 +38,7 @@ const Footer = () => {
               href={siteConfig.socialLinks.twitter}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-lime-900 hover:text-yellow-900"
+              className="  hover:text-yellow-900"
             >
               <span className="sr-only">Twitter</span>
               <FiTwitter className="h-6 w-6" />
@@ -50,7 +47,7 @@ const Footer = () => {
           {siteConfig.personalInfo.email && (
             <a
               href={`mailto:${siteConfig.personalInfo.email}`}
-              className="text-lime-900 hover:text-red-500 dark:hover:text-red-400 transition-colors"
+              className="  hover:text-red-500 dark:hover:text-red-400 transition-colors"
               aria-label="Email"
             >
               <span className="sr-only">Email</span>
@@ -58,18 +55,22 @@ const Footer = () => {
             </a>
           )}
         </div>
-        <div className="text-center">
-          <p className="text-sm text-lime-900 m-3">
-            © <Suspense fallback="----"><CopyrightYear /></Suspense> All right reserved.{" "}
+                <nav aria-label="Legal" className="flex-wrap items-center   gap-x-4 gap-y-3 justify-center sm:flex">
+          <Link href="/privacy-policy" className="transition-colors hover:text-foreground ">
+            Política de privacidad
+          </Link>
+          <Link href="/terms-of-service" className="transition-colors hover:text-foreground">
+            Aviso legal
+          </Link>
+        </nav>
+           <div className="text-center">
+               <p className="text-sm   m-3">
+            © <Suspense fallback="----"><CopyrightYear /></Suspense> All rights reserved{" "}
           </p>
-             <p className="text-sm text-lime-900">
-            Made with ❤️ by {" "}{"Quica Espi Puig "}
-          </p>
-        </div>
+
+     </div>
       </div>
     </footer>
   );
-};
-
-export default Footer;
+}
 

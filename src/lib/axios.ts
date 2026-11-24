@@ -10,7 +10,7 @@ if (dogApiKey) {
 }
 
 export const API_URL_RANDOM =
-  "https://api.thedogapi.com/v1/images/search?limit=2";
+  "https://api.thedogapi.com/v1/images/search?limit=10";
 export const API_URL_FAVORITES = (id: string) =>
   `https://api.thedogapi.com/v1/favourites/${id}`;
 export const API_URL_FAVORITES_DELETE = (id: string) =>

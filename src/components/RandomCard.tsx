@@ -90,7 +90,7 @@ const RandomCard: React.FC<RandomCardProps> = ({ image }) => {
         className="aspect-square h-auto w-full rounded-sm border border-double border-black object-cover shadow-md shadow-black"
       />
       <div className="mx-auto mt-2 flex justify-center">
-        <Button onClick={onSaveFavorite} disabled={isSaving || isSaved}>
+        <Button onClick={onSaveFavorite} disabled={isSaving || isSaved} className="cursor-pointer bg-lime-600 hover:bg-lime-400 text-lime-900-200 hover:text-lime-800 font-bold py-2 px-4 rounded">
           {isSaving
             ? "Adding..."
             : isSaved

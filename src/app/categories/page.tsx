@@ -111,11 +111,11 @@ async function CategoriesPage() {
               <div className="flex items-center justify-between gap-2">
                 <h2 className="text-xl font-bold text-slate-800">{category.name}</h2>
               </div>
-              <p className="text-sm leading-6 text-slate-600">
+              <p className="text-sm leading-6 text-slate-800">
                 {descriptions[category.name] ||
                   `Explore ${category.name.toLowerCase()} dogs and their most iconic traits.`}
               </p>
-              <div className="flex items-center justify-between pt-2 text-sm font-medium text-amber-700">
+              <div className="flex items-center justify-between pt-2 text-sm text-amber-900 font-bold hover:text-amber-600">
                 <span>View breeds</span>
                 <span aria-hidden="true">→</span>
               </div>

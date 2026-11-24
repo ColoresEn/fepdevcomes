@@ -30,7 +30,7 @@ const FavouriteCard: React.FC<RandomCardProps> = ({ favourite }) => {
         className="aspect-square h-auto w-full rounded-sm border border-double border-black object-cover object-top shadow-md shadow-black"
       />
       <div className=" mx-auto flex  justify-center mt-6">
-        <Button onClick={() => onDeleteFavorite(favourite.id)}>
+        <Button onClick={() => onDeleteFavorite(favourite.id)} className="cursor-pointer bg-lime-600 hover:bg-lime-400 text-lime-900 hover:text-lime-800 font-bold py-2 px-4 rounded">
           Delete from favourite
         </Button>
       </div>
