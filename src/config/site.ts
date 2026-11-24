@@ -54,7 +54,7 @@ export const siteConfig = {
     twitter: 'https://twitter.com/coloresen',
     linkedin: 'https://linkedin.com/in/quica-espi-puig-8b78b154/',
     instagram: 'https://instagram.com/esomaparking',
-  
+
   },
   
   // Habilidades técnicas

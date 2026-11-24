@@ -4,11 +4,11 @@ import { siteConfig } from "@/config/site";
 import { FiGithub, FiLinkedin, FiTwitter ,   FiMail} from "react-icons/fi";
 import { Suspense } from "react";
 export default function Footer() {
- 
+
   return (
     <footer className="bg-background/60 text-center backdrop-blur-sm">
       <div className="mx-auto w-full max-w-6xl flex-col gap-3 px-4 py-8 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6">
-       
+
 
             <div className="m-4 flex justify-center space-x-6">
           {siteConfig.socialLinks.github && (
@@ -67,7 +67,7 @@ export default function Footer() {
                <p className="text-sm   m-3">
             © <Suspense fallback="----"><CopyrightYear /></Suspense> All rights reserved{" "}
           </p>
-       
+
      </div>
       </div>
     </footer>

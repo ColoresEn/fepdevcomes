@@ -5,7 +5,7 @@ const PrivacyPolicy: NextPage = () => {
   return ( <div className="mx-auto  mt-5 w-[calc(100%-2rem)] max-w-fit bg-amber-200  p-6 shadow-md shadow-black">
     <div style={{ padding: '20px' }}>
       <h1>Política de Privacidad</h1>
-      
+
 <p>
 Finalidad del tratamiento de los datos.
 Sus datos de carácter personal se recaban con la finalidad de prestar y mantener los servicios acordados contractualmente así como poder informarle sobre los nuevos productos y servicios </p>
@@ -13,7 +13,6 @@ Sus datos de carácter personal se recaban con la finalidad de prestar y mantene
 El tratamiento de los datos que nos facilite a través de los formularios de la web https://fepdev.com.es se regirá por esta misma política de privacidad.
 Las operaciones, gestiones y procedimientos técnicos que se realicen de forma automatizada o no automatizada y que posibiliten la recogida, el almacenamiento, la modificación, la transferencia y otras acciones sobre datos de carácter personal, tienen la consideración de tratamiento de datos personales. </p>
 
-<p>
 Datos recabados para la prestación de un servicio
 Los datos de carácter personal que nos facilite para la prestación de un servicio serán los mínimos exigibles para poder elaborar el contrato así como para poder ofrecerle los servicios que usted contrate y para el cumplimiento de las obligaciones legales.
 Los datos serán conservados durante los plazos legalmente establecidos. </p>
