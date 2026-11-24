@@ -5,6 +5,7 @@ import { createContactAction } from "@/actions/contact-action";
 import {
   Form,
   FormControl,
+  FormDescription,
   FormField,
   FormItem,
   FormLabel,
@@ -50,20 +51,20 @@ const AddContactForm = () => {
   };
 
   return (
-    <main className="auth-page">
-      <section className="auth-panel">
-      <h1>Send a message</h1>
-      <p className="auth-description">Tell us what you found, or what we can improve.</p>
+    <div className="mx-auto w-[calc(100%-2rem)] max-w-2xl rounded-2xl px-6 py-6 font-bold shadow-input
+     bg-gradient-to-br from-lime-900  via-lime-600 to-emerald-600 border border-[hsl(71,77%,58%)] ">
+      
+      <h3 className="text-2xl mx-auto m-4">Send a message</h3>
       <Form {...form}>
-        <form onSubmit={form.handleSubmit(onSubmit)} className="auth-form">
+        <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
           <FormField
             control={form.control}
             name="postername"
             render={({ field }) => (
               <FormItem>
-                <FormLabel>Name</FormLabel>
+                <FormLabel>Nombre</FormLabel>
                 <FormControl>
-                  <Input placeholder="Your name" {...field} />
+                  <Input placeholder="Tu nombre" {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -76,7 +77,7 @@ const AddContactForm = () => {
               <FormItem>
                 <FormLabel>Email</FormLabel>
                 <FormControl>
-                  <Input placeholder="Your email" {...field} />
+                  <Input placeholder="Tu email" {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -87,9 +88,9 @@ const AddContactForm = () => {
             name="topic"
             render={({ field }) => (
               <FormItem>
-                <FormLabel>Topic</FormLabel>
+                <FormLabel>Asunto</FormLabel>
                 <FormControl>
-                  <Input placeholder="Go to gym" {...field} />
+                  <Input placeholder="Asunto del mensaje" {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -100,10 +101,10 @@ const AddContactForm = () => {
             name="message"
             render={({ field }) => (
               <FormItem>
-                <FormLabel>Message</FormLabel>
+                <FormLabel>Mensaje</FormLabel>
                 <FormControl>
                   <Textarea
-                    placeholder="Tell us  about"
+                    placeholder="Cuéntanos sobre tu mensaje"
                     className="resize-none"
                     {...field}
                   />
@@ -113,8 +114,8 @@ const AddContactForm = () => {
               </FormItem>
             )}
           />
-           <div className="flex justify-end text-left">
-           <Button type="submit" className="auth-submit w-full" disabled={loading}>
+           <div className="flex justify-end text-left p-4 ">
+          <Button type="submit" className="rounded-full border border-lime-500 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-lime-400 hover:bg-lime-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2" disabled={loading}>
             {loading ? (
               <>
                 <Spinner /> Loading...
@@ -126,8 +127,7 @@ const AddContactForm = () => {
           </div>
         </form>
       </Form>
-      </section>
-    </main>
+    </div>
   );
 };
 

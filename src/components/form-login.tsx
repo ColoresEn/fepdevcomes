@@ -5,9 +5,21 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { loginAction } from "@/actions/auth-action";
+import { Button } from "@/components/ui/button";
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "@/components/ui/form";
+import { Input } from "@/components/ui/input";
 import { useRouter } from "next/navigation";
 import { useState, useTransition } from "react";
 import Link from "next/link";
+/* import ButtonSocial from "./button-social";
+import { FaGithub, FaGoogle } from "react-icons/fa6"; */
 
 interface FormLoginProps {
   OAuthAccountNotLinked: boolean;
@@ -20,10 +32,13 @@ const FormLogin = ({ OAuthAccountNotLinked }: FormLoginProps) => {
 
   const form = useForm<z.infer<typeof loginSchema>>({
     resolver: zodResolver(loginSchema),
-    defaultValues: { email: "", password: "" },
+    defaultValues: {
+      email: "",
+      password: "",
+    },
   });
 
-  function onSubmit(values: z.infer<typeof loginSchema>) {
+  async function onSubmit(values: z.infer<typeof loginSchema>) {
     setError(null);
     startTransition(async () => {
       const response = await loginAction(values);
@@ -37,56 +52,77 @@ const FormLogin = ({ OAuthAccountNotLinked }: FormLoginProps) => {
   }
 
   return (
-    <main className="auth-page">
-      <section className="auth-panel">
-        <h1>Welcome back</h1>
-        <p className="auth-description">Sign in to share a wall or manage your posts.</p>
-        {OAuthAccountNotLinked && (
-          <p className="form-error" role="alert">
-            Sign in with the account you originally used to confirm your identity.
-          </p>
-        )}
-        <form className="auth-form" onSubmit={form.handleSubmit(onSubmit)}>
-          <div>
-            <label htmlFor="login-email">Email</label>
-            <input
-              id="login-email"
-              type="email"
-              autoComplete="email"
-              placeholder="you@example.com"
-              aria-invalid={Boolean(form.formState.errors.email)}
-              {...form.register("email")}
-            />
-            {form.formState.errors.email && (
-              <p className="form-error">{form.formState.errors.email.message}</p>
+    <div
+      className="mx-auto w-[calc(100%-2rem)] max-w-xl rounded-2xl px-6 py-6 font-bold shadow-input
+    bg-gradient-to-br from-lime-900  via-lime-600 to-emerald-600 border border-[hsl(71,77%,58%)]  "
+    >
+      <h3 className="text-2xl mx-auto m-4">Iniciar sesión</h3>
+
+      {OAuthAccountNotLinked && (
+        <p className="text-center text-red-500 mb-5 text-sm">
+                La cuenta ya está vinculada a otro proveedor. Por favor usa el
+                proveedor correcto para iniciar sesión.
+        </p>
+      )}
+      <Form {...form}>
+        <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
+          <FormField
+            control={form.control}
+            name="email"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Email</FormLabel>
+                <FormControl>
+                  <Input placeholder="email" type="email" {...field} />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
             )}
-          </div>
-          <div>
-            <label htmlFor="login-password">Password</label>
-            <input
-              id="login-password"
-              type="password"
-              autoComplete="current-password"
-              placeholder="Your password"
-              aria-invalid={Boolean(form.formState.errors.password)}
-              {...form.register("password")}
-            />
-            {form.formState.errors.password && (
-              <p className="form-error">{form.formState.errors.password.message}</p>
+          />
+          <FormField
+            control={form.control}
+            name="password"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Contraseña</FormLabel>
+                <FormControl>
+                  <Input placeholder="Contraseña" type="password" {...field} />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
             )}
+          />
+          {error && <FormMessage>{error}</FormMessage>}
+          <div className=" flex justify-around items-end  ">
+            <label className="text-sm block font-semibold  text-zinc-900">
+              ¿No tienes una cuenta?{" "}
+            </label>
+            <Link
+              className="text-sm block font-semibold  text-red-800 hover:underline hover:text-blue-600"
+              href="/register"
+            >
+              Registrate
+            </Link>
           </div>
-          {error && <p className="form-error" role="alert">{error}</p>}
-          <div className="auth-switch">
-            <span>New here?</span>
-            <Link href="/register">Create an account</Link>
+          <div className="flex justify-end text-left p-4 ">
+            <Button type="submit" disabled={isPending} className="rounded-full border border-lime-500 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-lime-400 hover:bg-lime-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2">
+              Enviar
+            </Button>
           </div>
-          <button className="auth-submit" type="submit" disabled={isPending}>
-            {isPending ? "Signing in..." : "Sign in"}
-          </button>
         </form>
-      </section>
-    </main>
+      </Form>
+      {/*  <div className="mt-5 space-y-4 mb-4">
+        <ButtonSocial provider="github">
+          <FaGithub className="mr-2 h-4 w-4" />
+          <span>Sign in with Github</span>
+        </ButtonSocial>
+        {'  '}
+        <ButtonSocial provider="google">
+          <FaGoogle className="mr-2 h-4 w-4" />
+          <span>Sign in with Google</span>
+        </ButtonSocial>
+      </div> */}
+    </div>
   );
 };
-
 export default FormLogin;

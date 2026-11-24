@@ -35,23 +35,42 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
   ],
   session: { strategy: "jwt" },
   callbacks: {
-    // jwt() se ejecuta cada vez que se crea o actualiza un token JWT.
-    // Aquí es donde puedes agregar información adicional al token.
-    jwt({ token, user }) {
+    async jwt({ token, user }) {
       if (user) {
+        token.id = user.id;
         token.role = user.role;
-        token.id  = user.id as string;
       }
+
+      if (!token.id && token.sub) {
+        token.id = token.sub;
+      }
+
+      if (!token.role && token.id) {
+        const currentUser = await db.user.findUnique({
+          where: { id: token.id },
+          select: { role: true },
+        });
+
+        if (currentUser) {
+          token.role = currentUser.role;
+        }
+      }
+
       return token;
     },
-    // session() se utiliza para agregar la información del token a la sesión del usuario,
-    // lo que hace que esté disponible en el cliente.
     session({ session, token }) {
       if (session.user) {
-        session.user.role = token.role;
-        session.user.id= token.id;
-        
+        if (token.id) {
+          session.user.id = token.id;
+        } else if (token.sub) {
+          session.user.id = token.sub;
+        }
+
+        if (token.role) {
+          session.user.role = token.role;
+        }
       }
+
       return session;
     },
   },

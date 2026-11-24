@@ -3,7 +3,7 @@ import { NextPage } from "next";
 
 const TermsOfService: NextPage = () => {
   return (
-    <div className="mx-auto mt-5 w-[calc(100%-2rem)] max-w-fit  p-6 shadow-md shadow-black">
+    <div className="mx-auto mt-5 w-[calc(100%-2rem)] max-w-fit bg-amber-200  p-6 shadow-md shadow-black">
     <div style={{ padding: "20px" }}>
       <h1>Condiciones del Servicio</h1>
       <p>

@@ -6,6 +6,16 @@ import { useForm } from "react-hook-form";
 import Link from "next/link";
 import { z } from "zod";
 import { registerAction } from "@/actions/auth-action";
+import { Button } from "@/components/ui/button";
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "@/components/ui/form";
+import { Input } from "@/components/ui/input";
 import { useRouter } from "next/navigation";
 import { useState, useTransition } from "react";
 
@@ -16,10 +26,14 @@ const FormRegister = () => {
 
   const form = useForm<z.infer<typeof registerSchema>>({
     resolver: zodResolver(registerSchema),
-    defaultValues: { email: "", password: "", name: "" },
+    defaultValues: {
+      email: "",
+      password: "",
+      name: "",
+    },
   });
 
-  function onSubmit(values: z.infer<typeof registerSchema>) {
+  async function onSubmit(values: z.infer<typeof registerSchema>) {
     setError(null);
     startTransition(async () => {
       const response = await registerAction(values);
@@ -33,65 +47,74 @@ const FormRegister = () => {
   }
 
   return (
-    <main className="auth-page">
-      <section className="auth-panel">
-        <h1>Join the community</h1>
-        <p className="auth-description">Create an account to share the places you find.</p>
-        <form className="auth-form" onSubmit={form.handleSubmit(onSubmit)}>
-          <div>
-            <label htmlFor="register-name">Name</label>
-            <input
-              id="register-name"
-              type="text"
-              autoComplete="name"
-              placeholder="Your name"
-              aria-invalid={Boolean(form.formState.errors.name)}
-              {...form.register("name")}
-            />
-            {form.formState.errors.name && (
-              <p className="form-error">{form.formState.errors.name.message}</p>
+    <div
+      className="mx-auto w-[calc(100%-2rem)] max-w-xl rounded-2xl px-6 py-6 font-bold shadow-input
+     bg-gradient-to-br from-lime-900  via-lime-600 to-emerald-600  border border-[hsl(71,77%,58%)] "
+    >
+          <h3 className="text-2xl mx-auto m-4">Registro</h3>
+
+      <Form {...form}>
+        <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
+          <FormField
+            control={form.control}
+            name="name"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Nombre</FormLabel>
+                <FormControl>
+                  <Input placeholder="Nombre" type="text" {...field} />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
             )}
-          </div>
-          <div>
-            <label htmlFor="register-email">Email</label>
-            <input
-              id="register-email"
-              type="email"
-              autoComplete="email"
-              placeholder="you@example.com"
-              aria-invalid={Boolean(form.formState.errors.email)}
-              {...form.register("email")}
-            />
-            {form.formState.errors.email && (
-              <p className="form-error">{form.formState.errors.email.message}</p>
+          />
+          <FormField
+            control={form.control}
+            name="email"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Email</FormLabel>
+                <FormControl>
+                  <Input placeholder="email" type="email" {...field} />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
             )}
-          </div>
-          <div>
-            <label htmlFor="register-password">Password</label>
-            <input
-              id="register-password"
-              type="password"
-              autoComplete="new-password"
-              placeholder="Create a password"
-              aria-invalid={Boolean(form.formState.errors.password)}
-              {...form.register("password")}
-            />
-            {form.formState.errors.password && (
-              <p className="form-error">{form.formState.errors.password.message}</p>
+          />
+          <FormField
+            control={form.control}
+            name="password"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Contraseña</FormLabel>
+                <FormControl>
+                  <Input placeholder="Contraseña" type="password" {...field} />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
             )}
+          />
+          {error && <FormMessage>{error}</FormMessage>}
+          <div className=" flex justify-around items-end  ">
+            <label className="text-sm block font-semibold  text-zinc-900">
+            ¿Ya tienes una cuenta?{" "}
+            </label>
+            <Link
+              className="text-sm block font-semibold  text-red-700 hover:underline hover:text-blue-600"
+              href="/login"
+            >
+              Iniciar sesión
+            </Link>
           </div>
-          {error && <p className="form-error" role="alert">{error}</p>}
-          <div className="auth-switch">
-            <span>Already have an account?</span>
-            <Link href="/login">Sign in</Link>
+
+          <div className="flex justify-end text-left p-4 ">
+            <Button type="submit" disabled={isPending} className="rounded-full border border-lime-500 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-lime-400 hover:bg-lime-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2">
+              Enviar
+            </Button>
           </div>
-          <button className="auth-submit" type="submit" disabled={isPending}>
-            {isPending ? "Creating account..." : "Create account"}
-          </button>
         </form>
-      </section>
-    </main>
+      </Form>
+    </div>
   );
 };
-
 export default FormRegister;
